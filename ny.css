@@ -1,0 +1,197 @@
+.title{
+position: relative;
+left:500px;
+}
+
+.dash{
+height:0px;
+width:1180px;
+border: 0.5px groove black;
+position: relative;
+left:120px;
+}
+
+.dash2{
+height:0px;
+width:1180px;
+border: 0.5px ridge;
+border-color:#D4CCCB;
+position: relative;
+left:120px;
+}
+
+.dash3{
+height:0px;
+width:1180px;
+border: 3px;
+border-top-style:double;
+border-color:#D4CCCB;
+position: relative;
+left:120px;
+}
+
+.dash4{
+height:0px;
+width:200px;
+border: 0.5px ridge;
+border-color:#D4CCCB;
+position: relative;
+left:5px;
+}
+.dash5{
+height:330px;
+width:0.5px;
+border: 0.5px ridge;
+border-color:#D4CCCB;
+position: relative;
+top:-1525px;
+left:1060px;
+}
+.dash6{
+height:0px;
+width:1180px;
+border: 3px;
+border-top-style:double;
+border-color:black;
+position: relative;
+left:120px;
+}
+.dash7{
+height:0px;
+width:100px;
+border: 3px;
+border-top-style:ridge;
+border-color:#D4CCCB;
+position: relative;
+top:100px;
+}
+
+.navc{
+position: relative;
+left:600px;
+font-family:arial;
+font-size:10px;
+padding:7px;
+}
+
+.navleft{
+position: relative;
+left:120px;
+}
+
+.navright{
+position: relative;
+left:900px;
+padding: 10px;
+border-radius: 3px;
+border: 1px solid #326891;
+background-color: #6288a5;
+color: white;
+}
+
+.date{
+position: relative;
+left:120px;
+font-size:15px;
+}
+
+.rightt{
+position: relative;
+left:1060px;
+font-size:15px;
+}
+
+.menu>a{
+position: relative;
+left:180px;
+padding-left: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+border:none;
+font-size:15px;
+}
+
+.ul{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+position: relative;
+left:80px;
+color:rgb(51, 51, 51);
+width:200px;
+}
+
+.ul2{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-340px;
+left:200px;
+width:200px;
+}
+
+.ul3{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-555px;
+left:400px;
+width:200px;
+}
+.ul4{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-845px;
+left:590px;
+width:200px;
+}
+.ul5{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-1185px;
+left:800px;
+width:200px;
+}
+.ul6{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:15px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-1875px;
+left:1050px;
+width:200px;
+}
+
+.ul7{
+list-style-type: none;
+font-family: nyt-franklin;
+font-size:13px;
+color:rgb(51, 51, 51);
+position:relative;
+top:-1880px;
+left:1060px;
+width:200px;
+}
+
+.ul>li, .ul2>li, .ul3>li, .ul4>li, .ul5>li, .ul6>li, .ul7>li{
+padding:4px;
+}
+
+.titleFooter{
+position:relative;
+left:120px;
+height:44px;
+width:250px;
+padding-top:10px;
+}
